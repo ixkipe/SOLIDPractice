@@ -1,0 +1,15 @@
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\bin\Debug\net6.0\SolidPractice.exe
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\bin\Debug\net6.0\SolidPractice.deps.json
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\bin\Debug\net6.0\SolidPractice.runtimeconfig.json
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\bin\Debug\net6.0\SolidPractice.dll
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\bin\Debug\net6.0\SolidPractice.pdb
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.csproj.AssemblyReference.cache
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.AssemblyInfoInputs.cache
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.AssemblyInfo.cs
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.csproj.CoreCompileInputs.cache
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.dll
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\refint\SolidPractice.dll
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.pdb
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\SolidPractice.genruntimeconfig.cache
+C:\Users\user\.vscode-insiders\projects\SOLIDPractice\SolidPractice\obj\Debug\net6.0\ref\SolidPractice.dll
